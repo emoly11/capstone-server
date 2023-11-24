@@ -1,42 +1,42 @@
 [
     {
         "name": "Emily Kusich",
-        "color": "Red",
+        "color": "Yellow",
         "skill": "5"
     },
     {
         "name": "Tre' Cunningham",
-        "color": "Red",
+        "color": "MediumSeaGreen",
         "skill": "1"
     },
     {
-        "name": "Justin",
-        "color": "Red",
+        "name": "Justin Hendricks",
+        "color": "Crimson",
         "skill": "4"
     },
     {
-        "name": "Kevin",
-        "color": "Red",
+        "name": "Kevin Aristhomene",
+        "color": "RoyalBlue",
         "skill": "1"
     },
     {
-        "name": "Andrea Matos",
-        "color": "Red",
+        "name": "Abby Pollack",
+        "color": "HotPink",
         "skill": "3"
     },
     {
-        "name": "Christian Ocampo",
-        "color": "Red",
+        "name": "Paulette Blanc",
+        "color": "LightSeaGreen",
         "skill": "4"
     },
     {
-        "name": "Ed Baafi",
-        "color": "Red",
+        "name": "Andrea Matos",
+        "color": "GreenYellow",
         "skill": "2"
     },
     {
-        "name": "Jajuan Burton",
-        "color": "Red",
+        "name": "Christian Ocampo",
+        "color": "BlueViolet",
         "skill": "3"
     }
 ]
