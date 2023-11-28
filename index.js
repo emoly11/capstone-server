@@ -17,6 +17,8 @@ app.get('/', (_req, res) => {
 }
 )
 
+app.get('/')
+
 app.listen(8084, () => {
     console.log('hey')
 })
