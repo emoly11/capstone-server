@@ -17,12 +17,12 @@ app.get('/', (_req, res) => {
 }
 )
 
-app.get('/', (_req, res) => {
+app.get('/tables', (_req, res) => {
     const tablesData = fs.readFileSync('./data/tables.json');
     const parsedTablesData = JSON.parse(tablesData);
 
-    const tablesArr = parsedTablesData.map(tables => {
-        return { color: tables.color, id: tables.id, width: tables.width, height: tables.height, top: tables.top }
+    const tables = parsedTablesData.map(table => {
+        return { color: table.color, id: table.id, width: table.width, height: table.height, top: table.top }
     })
     res.send(tablesData)
 }
