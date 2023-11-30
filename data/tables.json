@@ -113,7 +113,7 @@
         "server": "",
         "width": 85,
         "height": 85,
-        "left": 100,
+        "left": 750,
         "top": 50
     },
     {
@@ -122,44 +122,44 @@
         "server": "",
         "width": 85,
         "height": 85,
-        "left": 100,
+        "left": 900,
         "top": 50
     },
     {
         "color": "",
         "id": "15",
         "server": "",
-        "width": 85,
+        "width": 190,
         "height": 85,
-        "left": 100,
-        "top": 50
+        "left": 700,
+        "top": 180
     },
     {
         "color": "",
         "id": "16",
         "server": "",
-        "width": 85,
-        "height": 85,
-        "left": 100,
-        "top": 50
+        "width": 75,
+        "height": 75,
+        "left": 630,
+        "top": 320
     },
     {
         "color": "",
         "id": "17",
         "server": "",
-        "width": 85,
-        "height": 85,
-        "left": 100,
-        "top": 50
+        "width": 75,
+        "height": 75,
+        "left": 750,
+        "top": 320
     },
     {
         "color": "",
         "id": "18",
         "server": "",
-        "width": 85,
-        "height": 85,
-        "left": 100,
-        "top": 50
+        "width": 75,
+        "height": 75,
+        "left": 870,
+        "top": 320
     },
     {
         "color": "",
@@ -167,8 +167,8 @@
         "server": "",
         "width": 85,
         "height": 85,
-        "left": 100,
-        "top": 50
+        "left": 600,
+        "top": 550
     },
     {
         "color": "",
@@ -176,7 +176,34 @@
         "server": "",
         "width": 85,
         "height": 85,
-        "left": 100,
-        "top": 50
+        "left": 740,
+        "top": 550
+    },
+    {
+        "color": "",
+        "id": "21",
+        "server": "",
+        "width": 130,
+        "height": 85,
+        "left": 880,
+        "top": 550
+    },
+    {
+        "color": "",
+        "id": "22",
+        "server": "",
+        "width": 160,
+        "height": 85,
+        "left": 650,
+        "top": 680
+    },
+    {
+        "color": "",
+        "id": "23",
+        "server": "",
+        "width": 85,
+        "height": 85,
+        "left": 850,
+        "top": 680
     }
 ]

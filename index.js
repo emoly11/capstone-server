@@ -28,6 +28,24 @@ app.get('/tables', (_req, res) => {
 }
 )
 
+app.post('/staff', (request, response) => {
+    const something = fs.readFileSync('./data/staff.json')
+    const parseSomething = JSON.parse(something)
+
+    const { name, color } = request.body;
+
+    const newObject = {
+
+        name: name,
+        color: color,
+
+    }
+
+    response.json(newObject);
+    parseSomething.push(newObject)
+    fs.writeFileSync('./data/staff.json', JSON.stringify(parseSomething));
+})
+
 app.listen(8084, () => {
     console.log('hey')
 })
